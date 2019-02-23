@@ -52,8 +52,8 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "mking@ssc.wisc.edu"
 phone = ""
-address = ""8128 Sewell Social Sciences Building<br> 
-            1180 Observatory Drive, Madison, WI, 53706""
+address = """8128 Sewell Social Sciences Building<br> 
+            1180 Observatory Drive, Madison, WI, 53706"""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
