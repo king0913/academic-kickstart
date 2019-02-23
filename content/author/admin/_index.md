@@ -16,7 +16,7 @@ role = "Sociology PhD Candidate"
 organizations = [ { name = "University of Wisconsin-Madison", url = "www.ssc.wisc.edu/soc" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = ""
+bio = "Test"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "mking@ssc.wisc.edu"
@@ -67,7 +67,7 @@ interests = [
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
+[[social]]
    icon = "cv"
    icon_pack = "ai"
    link = "cv.pdf"
