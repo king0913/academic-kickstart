@@ -13,7 +13,7 @@ role = "Sociology PhD Candidate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Wisconsin-Madison", url = "https://www.ssc.wisc.edu/soc" } ]
+organizations = [ { name = "University of Wisconsin-Madison", url = "https://www.wisc.edu" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Test"
