@@ -32,4 +32,7 @@ weight = 60
   # text_color_light = true
 +++
 
-My research...
+Broadly my research interests lie at the intersection of social stratification, family demography, and education. In particular, I seek to understand how advantage and disadvantage are transmitted across generations, paying special attention to social or demographic outcomes, like marriage. This takes a step back from traditional stratification research which has primarily concerned itself with the intergenerational transmission of economic status and education. 
+
+My dissertation explores both the role of social mobility in family formation processes and the joint intergenerational transmission of economic status and family patterns over time. In exploring social mobility and family formation, I focus on marriage and assortative mating patterns among first-generation college students to test whether earning a college degree acts as a “great equalizer,” erasing the relationship between parents’ characteristics and children’s outcomes. I also examine whether where students attend college (e.g., distance from home or types of schools) influences who they marry, particularly among first-generation college students. In exploring the intergenerational transmission of economic status and family formation, I investigate how the two processes are intertwined and whether they have evolved over time. Ultimately, my work aims to broaden the scope of traditional stratification research to highlight the importance of family formation and identify processes influencing persistent social inequalities or potential pathways to social mobility.  
+
