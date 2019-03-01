@@ -23,13 +23,13 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_slides = "files/ch15.1_lec.pdf"
+url_slides = ""
 url_video = ""
 url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+# links = [{icon_pack = "", icon="", name="Example Slides", url = "files/WK02_Lab_03.pdf"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
