@@ -2,9 +2,6 @@
 # Project title.
 title = "Approach and Experience"
 
-# Date this page was created.
-# date = 2016-04-27T00:00:00
-
 # Project summary to display on homepage.
 summary = "I aim to help students develop strong critical thinking and problem solving skills through active learning and flexible teaching."
 
