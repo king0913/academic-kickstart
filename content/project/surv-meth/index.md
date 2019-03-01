@@ -25,7 +25,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "files/ch15.1_lec.pdf"
 url_video = ""
 url_code = ""
 
