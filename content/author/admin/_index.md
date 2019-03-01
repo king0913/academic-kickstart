@@ -16,7 +16,7 @@ role = "Sociology PhD Candidate"
 organizations = [ { name = "University of Wisconsin-Madison", url = "https://www.wisc.edu" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Test"
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "mking@ssc.wisc.edu"
