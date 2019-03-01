@@ -1,13 +1,13 @@
 +++
 # Projects widget.
 widget = "projects"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 
 title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 90
 
 # Content.
 # Display content from the following folder.
