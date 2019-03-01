@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Introductory Survey Methods"
+title = "Survey Methods"
 
 # Date this page was created.
 date = 2019-02-28T00:00:00
