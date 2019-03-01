@@ -1,9 +1,9 @@
 +++
 # Projects widget.
 widget = "projects"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 
-title = "Projects"
+title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -25,7 +25,7 @@ view = 3
 widget_layout = 0
 
 # For Showcase view, flip alternate rows?
-flip_alt_rows = false
+flip_alt_rows = true
 
 # Filter toolbar.
 
