@@ -38,7 +38,7 @@ interests = [
 [[education.courses]]
   course = "PhD in Sociology"
   institution = "University of Wisconsin-Madison"
-  year = "In Progress"
+  year = "Expected May 2020"
 
 [[education.courses]]
   course = "MA in Sociology"
