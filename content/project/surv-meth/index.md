@@ -3,7 +3,8 @@
 title = "Survey Methods"
 
 # Project summary to display on homepage.
-summary = "Undergraduate methods course covering survey sampling, measurement, and design."
+summary = "With Nora Cate Schaeffer, I developed and taught an intermediate undergraduates methods course designed to gives students substantial experience with practical research skills relevant for graduate school or future jobs." 
+
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
