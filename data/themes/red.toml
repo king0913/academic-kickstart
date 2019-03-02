@@ -1,18 +1,18 @@
 # Theme metadata
-name = "Default"
+name = "red"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "#2962ff"
-primary_light = "#768fff"
-primary_dark = "#0039cb"
+primary = "#c5050c"
+primary_light = "#c14f53"
+primary_dark = "#930e13"
 
 # Menu
-menu_primary = "#c5050c"
+menu_primary = "#9b0000"
 menu_text = "#f7f7f7"
-menu_text_active = "#dadfe1"
+menu_text_active = "#646569"
 menu_title = "#f7f7f7"
 
 # Home sections
