@@ -50,9 +50,9 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-In the Summer of 2018, I served as the instructor for an introductory course in statistics designed for students in the social sciences. The course introduced methods of quantitative social research to illustrate how they are used to assemble, describe, and draw inference from quantitative data. The methods we cover are basic, but highly useful for understanding statistical reports of various kinds and also for carrying out your own analyses of information drawn from difference sources, including surveys. Upon completion of this course, you will be a more informed and critical reader of academic work, news accounts, and advertising materials that present statistical evidence. You should also be able to execute and present elementary statistical analyses of your own.
+In the Summer of 2018, I served as the instructor for an introductory course in statistics designed for students in the social sciences. This course is built around discussion- and practice-based lectures low-stakes daily quizzes as formative assessment tools to help students continually gauge their understanding of the material. 
 
-The first part of the course focuses on descriptive statistics. We will cover strategies for exploring and interpreting data, describing single variables, and examining relationships between two variables. The second part of the course focuses on statistical inference. We will cover the concepts underlying data collection and probability sampling, the sampling distribution, and the importance of the sampling distribution to statistical inference about populations.
+The course also includes hands-on data analysis projects to help students apply the concepts learned in class and to develop their skills as producers of social research. See the links above for a detailed course syllabus as well as a sample lecture and quiz. 
 
 ## Student Testimonials
 
