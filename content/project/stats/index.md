@@ -54,9 +54,10 @@ In the Summer of 2018, I served as the instructor for an introductory course in 
 
 The first part of the course focuses on descriptive statistics. We will cover strategies for exploring and interpreting data, describing single variables, and examining relationships between two variables. The second part of the course focuses on statistical inference. We will cover the concepts underlying data collection and probability sampling, the sampling distribution, and the importance of the sampling distribution to statistical inference about populations.
 
-##Student Testimonials
+## Student Testimonials
+
 > Mike was a really great instructor. He is very approachable and went above and beyond to answer all of my many questions both in class and during office hours. He has a strong professional ethic and it is apparent that he cares about his students and their learning. He provided a lot of feedback during the course, through quizzes which I found very helpful.
-
+ 
 > Mike is a very professional and engaging instructor. His ability to translate complicated methods to beginners is incredible. He encourages participation and walks students through every step of the process when they don't understand. I would recommend his course to anyone who is learning the basics of statistics and would gladly take another course taught by him -- though it is unlikely I'll be able to.
-
+ 
 > I would definitely recommend this course to a friend if it will be taught by this particular instructor. He has been reasonable, understanding, and fair in almost every way possible. He was always kind and welcoming to those who needed help with the course materials and not once made them (including me) look or feel stupid in class or during his office hours. Though statistics course is typically a lecture type that may be difficult for many, he engaged with the students very well during lecture that involved literally everyone. These, I believe, can significantly influence an individual student on not only deciding whether to continue on learning more statistics methods or skills, but one's self-esteem and confidence in future studies. I am grateful for this experience as a whole.
