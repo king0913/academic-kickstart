@@ -1,9 +1,15 @@
 +++
 # Project title.
 title = "Survey Methods"
+subtitle = "Intermediate undergraduate methods course covering survey sampling, measurement, and design"
+
+reading_time = false  # Show estimated reading time?
+share = false  # Show social sharing links?
+profile = false  # Show author profile?
+comments = false  # Show comments?
 
 # Project summary to display on homepage.
-summary = "With Nora Cate Schaeffer, I developed and taught an intermediate undergraduates methods course designed to give students substantial experience with practical research skills relevant for graduate school or future jobs." 
+summary = "With Nora Cate Schaeffer, I developed and twice taught an intermediate undergraduates methods course designed to give students substantial experience with practical research skills relevant for graduate school or future jobs." 
 
 
 # Tags: can be used for filtering projects.
