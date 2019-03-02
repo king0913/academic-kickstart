@@ -53,7 +53,7 @@ url_code = ""
 
 In the Summer of 2018, I served as the instructor for an introductory course in statistics designed for students in the social sciences. This course is built around discussion- and practice-based lectures and low-stakes daily quizzes to help students continually gauge their understanding of the material. 
 
-The course also includes hands-on data analysis projects to help students apply the concepts learned in class and to develop their skills as producers of social research. See the links above for a detailed course syllabus as well as sample lecture slides and sample quiz. See below for what students had to say about the course. 
+The course also includes hands-on data analysis projects to help students apply the concepts learned in class and to develop their skills as producers of social research. See the links above for a detailed course syllabus as well as sample lecture slides and a sample quiz. See below for what students had to say about the course. 
 
 ## Student Testimonials
 
