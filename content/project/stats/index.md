@@ -37,7 +37,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- links = [{icon_pack = "", icon="", name="Syllabus", url = "files/soc360_syllabus.pdf"}, {name="Example Slides", url = "files/ch15.1_lec.pdf"}]
+ links = [{icon_pack = "", icon="", name="Syllabus", url = "files/soc360_syllabus.pdf"}, {name="Example Slides", url = "files/ch15.1_lec.pdf"}, {name="Example Quiz", url = "files/ch15.1_quiz_key.pdf"} ]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
