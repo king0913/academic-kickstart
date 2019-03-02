@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Approach and Experience"
+title = "Philosophy and Experience"
 subtitle = "I aim to help students develop strong critical thinking and problem solving skills through active learning and flexible teaching"
 
 reading_time = false # Show estimated reading time? 
