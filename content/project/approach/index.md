@@ -1,9 +1,17 @@
 +++
 # Project title.
 title = "Approach and Experience"
+subtitle = "I aim to help students develop strong critical thinking and problem solving skills through active learning and flexible teaching"
+
+reading_time = false # Show estimated reading time? 
+share = false # Show social sharing links? 
+profile = false # Show author profile? 
+comments = false # Show comments?
+
+
 
 # Project summary to display on homepage.
-summary = "I aim to help students develop strong critical thinking and problem solving skills through active learning and flexible teaching."
+summary = "I aim to help students develop strong critical thinking and problem solving skills through active learning and flexible teaching"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
