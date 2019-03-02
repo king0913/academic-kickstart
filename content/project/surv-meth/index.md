@@ -9,7 +9,7 @@ profile = false  # Show author profile?
 comments = false  # Show comments?
 
 # Project summary to display on homepage.
-summary = "With Nora Cate Schaeffer, I developed and twice taught an intermediate undergraduates methods course designed to give students substantial experience with practical research skills relevant for graduate school or future jobs." 
+summary = "With Nora Cate Schaeffer, I developed and twice taught an intermediate undergraduates methods course designed to give students substantial experience with practical research skills relevant for future jobs or graduate school." 
 
 
 # Tags: can be used for filtering projects.
