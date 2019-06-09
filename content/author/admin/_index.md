@@ -75,7 +75,7 @@ interests = [
 
 +++
 
-I am a PhD candidate in [Sociology](https://www.ssc.wisc.edu/soc/) and an affiliate of the [Center for Demography and Ecology](https://www.ssc.wisc.edu/cde/) at the University of Wisconsin-Madison.
+I am a PhD candidate in [Sociology](https://www.ssc.wisc.edu/soc/) and an affiliate of the [Center for Demography and Ecology](https://cde.wisc.edu) at the University of Wisconsin-Madison.
 
 My research interests include social stratification, social demography, family, education, and survey methodology. My dissertation examines how social mobility and educational attainment influence family formation processes, including marriage and assortative mating. 
 
