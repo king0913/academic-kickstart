@@ -1,6 +1,7 @@
 +++
 # Projects widget.
 widget = "projects"  # Do not modify this line!
+headless = true
 active = true  # Activate this widget? true/false
 
 title = "Teaching"

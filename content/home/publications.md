@@ -2,6 +2,7 @@
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"  # Do not modify this line!
+headless = true
 active = false  # Activate this widget? true/false
 
 title = "Recent Publications"

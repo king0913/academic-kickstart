@@ -13,7 +13,7 @@ baseurl = "https://www.mikedking.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019"
+copyright = "&copy; {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-135105321-1"
