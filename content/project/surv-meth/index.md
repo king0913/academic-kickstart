@@ -48,7 +48,7 @@ links = [{icon_pack = "", icon="", name="Syllabus", url = "files/Soc351_syllabus
   focal_point = "Smart"
 +++
 
-With [Nora Cate Schaeffer](https://www.ssc.wisc.edu/soc/faculty/show-person.php?person_id=42), I designed and twice served as a Teaching Assistant for an intermediate methods course on surveys. I served as the instructor for the lab portion of the course which was organized to give students an opportunity to apply the concepts they learned in class. 
+With [Nora Cate Schaeffer](https://sociology.wisc.edu/staff/schaeffer-nora-cate-2/), I designed and twice served as a Teaching Assistant for an intermediate methods course on surveys. I served as the instructor for the lab portion of the course which was organized to give students an opportunity to apply the concepts they learned in class. 
 
 Approximately one-third of the class focuses on questions of how to represent a population, specifically focusing on basic concepts of sampling and study design. The majority of the course focuses on measurement, including best practices for refining concepts, writing questions, and evaluating questions. The course concludes with a shorter module about study design and fielding surveys.
 
