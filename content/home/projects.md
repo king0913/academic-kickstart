@@ -1,7 +1,7 @@
 +++
 # Portfolio widget.
 widget = "portfolio"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Research"
@@ -20,7 +20,9 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
 
-
+  [[content.filter_button]]
+    name = "Research"
+    tag = "research"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
