@@ -1,7 +1,7 @@
 +++
 # Project title.
-title = "Survey Methods"
-subtitle = ""
+title = "Dissertation"
+subtitle = "Intergenerational social mobility and family formation in the United States"
 
 reading_time = false  # Show estimated reading time?
 share = false  # Show social sharing links?
@@ -9,7 +9,7 @@ profile = false  # Show author profile?
 comments = false  # Show comments?
 
 # Project summary to display on homepage.
-summary = "Testing tags" 
+summary = "Intergenerational social mobility and family formation in the United States" 
 
 
 # Tags: can be used for filtering projects.
