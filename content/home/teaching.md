@@ -20,15 +20,8 @@ subtitle = ""
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
-  
-  [[content.filter_button]]
-    name = "Teaching"
-    tag = "teaching"
-  
-  [[content.filter_button]]
-    name = "Research"
-    tag = "research"
 
+    tag = "teaching"
 
 
 [design]
