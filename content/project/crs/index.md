@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Mother's and Social Mobility"
+title = "Mothers and Social Mobility"
 subtitle = "The Changing Role of Mothers’ Status in Children’s Destinies"
 
 reading_time = false  # Show estimated reading time?
