@@ -10,7 +10,6 @@ subtitle = ""
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
-
   
 # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -24,7 +23,6 @@ subtitle = ""
   [[content.filter_button]]
     name = "Teaching"
     tag = "teaching"
-
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
