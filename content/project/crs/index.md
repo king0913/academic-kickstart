@@ -9,7 +9,7 @@ profile = false  # Show author profile?
 comments = false  # Show comments?
 
 # Project summary to display on homepage.
-summary = "" 
+summary = "The Changing Role of Mothers’ Status in Children’s Destinies" 
 
 
 # Tags: can be used for filtering projects.
