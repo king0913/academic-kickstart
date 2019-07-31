@@ -61,6 +61,11 @@ interests = [
   link = "mailto:mking@ssc.wisc.edu"
 
 [[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/mike-king-abb37a37"
+
+[[social]]
   icon = "twitter"
   icon_pack = "fab"
   link = "//twitter.com/_mdking"
