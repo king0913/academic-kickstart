@@ -48,5 +48,5 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-[Christine Schwartz](https://www.ssc.wisc.edu/~cschwart/) and I are working on documenting how the relationship between mothers’ status and children’s educational and occupational outcomes has changed over time. Drawing from multiple data sources ([PSID](https://psidonline.isr.umich.edu), [NSFH](https://www.ssc.wisc.edu/nsfh/), and [GSS](https://gss.norc.org)), our project is the first to show how the contribution of mother’s status to children’s outcomes has evolved over time relative to fathers’ status. 
+In this project, [Christine Schwartz](https://www.ssc.wisc.edu/~cschwart/) and I document how the relationship between mothers’ status and children’s educational and occupational outcomes has changed over time. Drawing from multiple data sources ([PSID](https://psidonline.isr.umich.edu), [NSFH](https://www.ssc.wisc.edu/nsfh/), and [GSS](https://gss.norc.org)), our project is the first to show how the contribution of mother’s status to children’s outcomes has evolved over time relative to fathers’ status. 
 
