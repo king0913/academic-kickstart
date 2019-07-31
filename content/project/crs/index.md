@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Mother's and Intergenerational Mobility"
+title = "Mother's and Social Mobility"
 subtitle = ""
 
 reading_time = false  # Show estimated reading time?
