@@ -1,7 +1,7 @@
 +++
 # Project title.
 title = "Dissertation"
-subtitle = "Intergenerational social mobility and family formation in the United States"
+subtitle = "Intergenerational Social Mobility and Family Formation in the United States"
 
 reading_time = false  # Show estimated reading time?
 share = false  # Show social sharing links?
@@ -9,7 +9,7 @@ profile = false  # Show author profile?
 comments = false  # Show comments?
 
 # Project summary to display on homepage.
-summary = "Intergenerational social mobility and family formation in the United States" 
+summary = "Intergenerational Social Mobility and Family Formation in the United States" 
 
 
 # Tags: can be used for filtering projects.
@@ -35,7 +35,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{icon_pack = "", icon="", name="Syllabus", url = "files/Soc351_syllabus.pdf"}, {name="Example Slides", url = "files/WK02_Lab_03.pdf"}, {name="Example Assignment", url = "files/WK14_Assignment_Paper4_v07.pdf"} ]
+# links = [{icon_pack = "", icon="", name="Syllabus", url = "files/Soc351_syllabus.pdf"}, {name="Example Slides", url = "files/WK02_Lab_03.pdf"}, {name="Example Assignment", url = "files/WK14_Assignment_Paper4_v07.pdf"} ]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -48,9 +48,12 @@ links = [{icon_pack = "", icon="", name="Syllabus", url = "files/Soc351_syllabus
   focal_point = "Smart"
 +++
 
-With [Nora Cate Schaeffer](https://sociology.wisc.edu/staff/schaeffer-nora-cate-2/), I designed (and twice served as a Teaching Assistant) for an intermediate methods course on surveys. I served as the instructor for the lab portion of the course which was organized to help students develop the skills and apply the concepts they learned in class. 
+My dissertation explores the relationships between social mobility, family formation, and intergenerational status transmission. I frame much of the dissertation around the marriage experiences of first-generation college students to understand how those from relatively disadvantaged social origins fare in the marriage market given their upward educational mobility. Earning a college degree is often viewed as a marker of upward mobility, even being hailed as the “great equalizer,” but these claims are based on studying economic and occupational status. Demographic processes, like marriage, also play an important role in social and economic stability in a way that has previously gone understudied. I show the importance of expanding the focus of stratification research beyond economic and occupational outcomes by highlighting how social (im)mobility and family formation are interrelated.
 
-Approximately one-third of the class focuses on questions of how to represent a population, specifically focusing on basic concepts of sampling and study design. The majority of the course focuses on measurement, including best practices for refining concepts, writing questions, and evaluating questions. The course concludes with a shorter module about study design and fielding surveys.
+The **first chapter** of my dissertation asks whether earning a bachelor’s degree acts as a “great equalizer” for marriage by examining when and whom first-generation college students marry. I find that first- and continuing-generation college graduates differ substantially in whom they marry, with first-generation women, in particular, being far less likely to marry a college graduate. These findings suggest that earning a college degree may not uniformly serve as a great equalizer for all outcomes or all groups. This paper recently received an invitation to Revise and Resubmit at *Demography*. 
 
-Over the course of the semester, students write four research reports covering practical skills including sampling frame evaluation, analysis of a split ballot experiment, evaluation and revision of survey questions, and a proposal for a split ballot experiment. See the links above for a detailed course syllabus as well as sample lab slides and a sample assignment.
+In the **second chapter**, I extend my work on first-generation college students to ask whether where students attends college helps explain the reduced likelihood of first-generation women marrying college graduates. I find that the gender composition of schools attended and the distance those schools are from students’ home explain some, but not all of the gender differences observed in Chapter 1. 
+
+Finally, my **third chapter** examines the relationships between the intergenerational transmission of economic status and the intergenerational transmission of family structure. I find that when accounting for the transmission of affluence and examining recent cohorts, the intergenerational transmissions of economic status and family structure are not independent processes, contradicting previous work on the topic. 
+
 
