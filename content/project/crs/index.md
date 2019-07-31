@@ -17,7 +17,7 @@ summary = "The Changing Role of Mothers’ Status in Children’s Destinies"
 tags = ["research"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "The Changing Role of Mothers’ Status in Children’s Destinies"
+external_link = ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
