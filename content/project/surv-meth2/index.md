@@ -48,5 +48,5 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-With [Nora Cate Schaeffer](https://sociology.wisc.edu/staff/schaeffer-nora-cate-2/), I am analyzing a survey experiment on the use of numeric and verbal labels in bipolar measurement scales. Using data from two experiments collected via telephone survey, we examine two decisions researchers must make when implementing scales that cannot be presented visually. The first decision concerns which numbers are used in association with each repsonse category. The second decision is whether and how to label the midpoint of bipolar scale. 
+With [Nora Cate Schaeffer](https://sociology.wisc.edu/staff/schaeffer-nora-cate-2/), I am analyzing a survey experiment on the use of numeric and verbal labels in bipolar measurement scales. Using data from two experiments collected via telephone survey, we examine two decisions researchers must make when implementing scales that cannot be presented visually. The first decision concerns which numbers are used in association with each response category. The second decision is whether and how to label the midpoint of a bipolar scale. 
 
