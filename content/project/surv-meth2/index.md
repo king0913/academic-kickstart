@@ -9,7 +9,7 @@ profile = false  # Show author profile?
 comments = false  # Show comments?
 
 # Project summary to display on homepage.
-summary = "Intermediate undergraduates methods course covering practical research skills related to survey design and questionnaire development" 
+summary = "Testing tags" 
 
 
 # Tags: can be used for filtering projects.

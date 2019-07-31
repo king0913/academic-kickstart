@@ -11,7 +11,6 @@ subtitle = ""
   # Page type to display. E.g. project.
   page_type = "project"
 
-
   
 # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -21,6 +20,7 @@ subtitle = ""
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
+  tag = "teaching"
 
 
 
