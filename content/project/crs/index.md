@@ -1,7 +1,7 @@
 +++
 # Project title.
 title = "Mothers and Social Mobility"
-subtitle = "The Changing Role of Mothers’ Status in Children’s Destinies"
+subtitle = "The Changing Role of Mothers’ Status in Children’s College Completion"
 
 reading_time = false  # Show estimated reading time?
 share = false  # Show social sharing links?
@@ -9,7 +9,7 @@ profile = false  # Show author profile?
 comments = false  # Show comments?
 
 # Project summary to display on homepage.
-summary = "The Changing Role of Mothers’ Status in Children’s Destinies" 
+summary = "The Changing Role of Mothers’ Status in Children’s College Completion" 
 
 
 # Tags: can be used for filtering projects.
