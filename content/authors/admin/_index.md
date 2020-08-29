@@ -9,17 +9,17 @@ authors = ["king0913"]
 superuser = true
 
 # Role/position
-role = "Sociology PhD Candidate"
+role = "Survey Statistician"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Wisconsin-Madison", url = "https://www.wisc.edu" } ]
+organizations = [ { name = "US Census Bureau", url = "https://www.census.gov" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "mking@ssc.wisc.edu"
+email = ""
 
 # List (academic) interests or hobbies
 interests = [
@@ -38,7 +38,7 @@ interests = [
 [[education.courses]]
   course = "PhD in Sociology"
   institution = "University of Wisconsin-Madison"
-  year = "Expected August 2020"
+  year = "2020"
 
 [[education.courses]]
   course = "MA in Sociology"
@@ -58,7 +58,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:mking@ssc.wisc.edu"
+  link = "mailto:michael.king2@census.gov"
 
 [[social]]
   icon = "linkedin"
@@ -80,7 +80,7 @@ interests = [
 
 +++
 
-I am a PhD candidate in [Sociology](https://sociology.wisc.edu) and an affiliate of the [Center for Demography and Ecology](https://cde.wisc.edu) at the University of Wisconsin-Madison.
+I am a Survey Statistician in the Program Participation and Income Transfers Branch at the US Census Bureau.
 
-My research and teaching interests include social stratification, social demography, family, education, statistics, and survey methodology. My work broadly examines how social mobility and educational attainment are related to family formation processes, including marriage and assortative mating. 
+I have research and teaching experience across a wide range of topics including social stratification, social demography, family, education, statistics, and survey methodology. My research broadly examines how social mobility and educational attainment are related to family formation processes, including marriage and assortative mating. 
 
