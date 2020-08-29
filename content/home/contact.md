@@ -2,7 +2,7 @@
 # Contact widget.
 widget = "contact"  # Do not modify this line!
 headless = true
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 
 title = "Contact"
 subtitle = ""
