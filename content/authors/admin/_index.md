@@ -9,11 +9,11 @@ authors = ["king0913"]
 superuser = true
 
 # Role/position
-role = "Survey Statistician"
+role = "Sociologist/Demographer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "US Census Bureau", url = "https://www.census.gov" } ]
+#organizations = [ { name = "US Census Bureau", url = "https://www.census.gov" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -55,10 +55,10 @@ interests = [
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-[[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "mailto:michael.king2@census.gov"
+#[[social]]
+#  icon = "envelope"
+#  icon_pack = "fas"
+#  link = "mailto:michael.king2@census.gov"
 
 [[social]]
   icon = "linkedin"
@@ -73,14 +73,12 @@ interests = [
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
-[[social]]
-   icon = "cv"
-   icon_pack = "ai"
-   link = "files/cv.pdf"
+#[[social]]
+#   icon = "cv"
+#   icon_pack = "ai"
+#   link = "files/cv.pdf"
 
 +++
 
-I am a Survey Statistician in the Program Participation and Income Transfers Branch at the US Census Bureau.
-
-I have research and teaching experience across a wide range of topics including social stratification, social demography, family, education, statistics, and survey methodology. My research broadly examines how social mobility and educational attainment are related to family formation processes, including marriage and assortative mating. 
+I am a sociologist and demographer with research and teaching experience across a wide range of topics including social stratification, social demography, family, education, statistics, and survey methodology. My research broadly examines how social mobility and educational attainment are related to family formation processes, including marriage and assortative mating. 
 
