@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Dissertation"
+title = "Social Mobility and Family Formation"
 subtitle = "Intergenerational Social Mobility and Family Formation in the United States"
 
 reading_time = false  # Show estimated reading time?
